@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I,m Saim from Bangladesh. I'm an experienced Web Developer specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, and various frameworks such as React and Node.js. Passionate about creating efficient, user-friendly web applications that deliver exceptional user experiences.
+I'm Saim from Bangladesh. I'm an experienced Web Developer specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, and various frameworks such as React and Node.js. Passionate about creating efficient, user-friendly web applications that deliver exceptional user experiences.
 
 Key Skills:
 •Front-End Development: HTML, CSS, JavaScript, React
