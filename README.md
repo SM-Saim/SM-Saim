@@ -11,6 +11,7 @@ Key Skills:
 - Collaborative Team Player with Excellent Communication
 
 Passionate about clean and maintainable code, I thrive in dynamic and fast-paced environments. I am driven by a commitment to continuous learning, always seeking opportunities to expand my skill set and take on new challenges. Let's connect and discuss how I can contribute to your web development projects.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM-Saim)](https://github.com/anuraghazra/github-readme-stats)
 
 
